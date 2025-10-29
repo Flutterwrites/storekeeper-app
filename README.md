@@ -1,16 +1,24 @@
-# storekeeper
+A Flutter-based Storekeeper app that helps users manage inventory locally. It was built with SQLite and native camera integration.
 
-A new Flutter project.
+**The Features**
+- Add, view, edit and delete products (CRUD)
+- Capture or Upload product images
+- Used Sqlite database
+- Clean and responsive UI
 
-## Getting Started
+**Technologies Used**
+- Flutter/Dart
+- Sqflite
+- Image picker
 
-This project is a starting point for a Flutter application.
+**Demo Video**
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**APK Download**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**Github Link**
+
+
+
+N.B: It was good working and learning building application with a database. Thank you.
