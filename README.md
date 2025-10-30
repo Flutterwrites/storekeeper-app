@@ -23,4 +23,4 @@ https://github.com/Flutterwrites/storekeeper-app
 
 
 
-N.B: It was good working and learning building application with a database, Thank you.
+N.B: It was good working and learning building application with a database. Thank you.
